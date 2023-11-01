@@ -47,7 +47,7 @@ The goal of this React Todo App project is to demonstrate my ability to build a 
 
 ## How to test
 
-You can access the project here: 
+You can access the project here: https://my-todo-gray.vercel.app/
 
 Or run on your machine:
 
